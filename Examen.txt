@@ -1,0 +1,16 @@
+1.¿Cuál es una definición de roles de IAM?-->Rta:Una entidad de IAM que define un conjunto de permisos para realizar solicitudes hacia los servicios de AWS.
+2.¿Cuál es una herramienta de seguridad de IAM?-->Rta:IAM Credentials Report
+3.¿Cuál respuesta es INCORRECTA con respecto a los usuarios en IAM?-->Rta:Los usuarios de IAM acceden a AWS con las credenciales de la cuenta raíz
+4.¿Cuál de las siguientes es una práctica recomendada de IAM?-->Rta:No use la cuenta de usuario raíz
+5.¿Qué son las políticas de IAM?-->Rta:Documentos JSON para definir los permisos de Usuarios, Grupos o Roles
+6.Bajo el modelo de responsabilidad compartida, ¿de qué es responsable el usuario en IAM?-->Rta:Asignar políticas de gestión de identidades y accesos adecuadas a los usuarios
+7.¿Cuál de las siguientes afirmaciones es verdadera?-->Rta:La CLI de AWS puede interactuar con AWS mediante comandos en su shell de línea de comandos, mientras que el SDK de AWS puede interactuar con AWS mediante programación.
+8.¿Qué principio debe aplicar con respecto a los permisos de IAM?-->Rta:Otorgar privilegio mínimo
+9.¿Qué debe hacer para aumentar la seguridad de su cuenta raíz?-->Rta:Habilitar la autenticación multifactor (MFA)
+10.Un Cloud Practitioner está desarrollando una nueva aplicación y desea integrar funciones de los servicios de AWS directamente en la aplicación. ¿Cuál de las siguientes es la MEJOR herramienta para este propósito?-->Rta:AWS SDK
+11.¿Qué tipo de credencial debe usar un Cloud Practitioner para el acceso programático a los recursos de AWS desde la AWS CLI/API?-->Rta:Llaves de Acceso o Access Keys
+12.¿Cuál es la mejor práctica para administrar las claves de acceso de AWS IAM?-->Rta:Los clientes deben rotar las claves de acceso con regularidad.
+13.Una empresa debe proporcionar acceso a los recursos de AWS a sus empleados. ¿Qué prácticas de seguridad deben seguir?-->Rta:Cree roles de IAM y aplíquelas a grupos de IAM. *************CORREGIR***************
+REPASAR CLASE
+14.¿Cuál de las siguientes prácticas debe usarse para mejorar la seguridad del acceso a la consola de administración de AWS?-->Rta:Políticas de contraseñas seguras
+15.¿Qué servicio de AWS ayuda a los clientes a cumplir con los requisitos corporativos, contractuales y normativos para la seguridad de los datos mediante el uso de dispositivos de hardware dedicados dentro de la nube de AWS?-->Rta:AWS CloudHSM
